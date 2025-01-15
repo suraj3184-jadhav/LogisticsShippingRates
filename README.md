@@ -1,19 +1,19 @@
-please consider the below factors wjhile ontributing
+please consider the below factors while contributing
 
 code style:
 Maintain a consistent code style for readiability.
 
-Docmentation:
+Documentation:
 Ensure well-documented code for effective collaboration
 
 Testing:
 Throughly test your changes before submitting a pull request.
 
 Issue Tracker:
-checcl the Issue Tracker for tasks.
+check the Issue Tracker for tasks.
 
-Code Review; 
-All contributors undergo a crate process.
+Code Review:
+All contributors undergo a code review process.
 
 Licensing:
-Comtributors are Livcensed.
+Contributors are Licensed.
